@@ -84,28 +84,6 @@ Predictive modelling enables telecom operators to proactively retain high‑risk
 
 The presentation and report outline further limitations (e.g., binary churn prediction only, potential shortcomings of SMOTE, unmodeled external factors) and propose next steps such as developing customer lifetime value (CLTV) models and enhancing the dataset with time‑based features.
 
-## How to publish this project on GitHub
-
-Follow these steps to upload the project files to your GitHub account for public viewing:
-
-1. **Prepare your files:**  This repository includes the Jupyter notebook, report, presentation and `README.md`.  A compressed archive (`customer_churn_project.zip`) has been created for convenient upload.
-
-2. **Sign in to GitHub:**  Visit [https://github.com/](https://github.com/) and log in with your GitHub credentials.
-
-3. **Create a new repository:**
-   - Click the “➕” icon in the upper right corner and choose **New repository**.
-   - Give your repository a descriptive name (e.g. `customer‑churn‑prediction`) and optional description.
-   - Set the repository to **Public** so others can view it.  Leave **Initialize this repository with a README** unchecked since you already have one.
-   - Click **Create repository**.
-
-4. **Upload the project files:**  On the newly created repository page, click **Upload files**, then either drag‑and‑drop the `customer_churn_project.zip` file or upload the individual files (`Customer Churn Prediction Code.ipynb`, `Predicting Customer Churn Timing and Lifetime Value in the Telecom Industry (1).pptx`, `ML Customer Churn Project Report.pdf` and `README.md`).  GitHub will automatically extract the folder structure if you upload individual files; if you upload the ZIP, ensure you click **Add file → Upload files → Choose your files** and then select the ZIP file.
-
-5. **Unpack the ZIP (optional):**  If you uploaded the ZIP, GitHub will display it as a single binary file.  For better accessibility, you may prefer to extract the ZIP locally and upload the individual files instead.  Alternatively, after uploading the ZIP, click **Add file → Create new file**, copy the contents of this README into the new `README.md` file on GitHub, and commit.  This will ensure that visitors see the project description on the repository’s front page.
-
-6. **Commit your changes:**  After uploading, scroll down to the commit message box, optionally enter a message such as “Initial commit”, and click **Commit changes**.
-
-7. **Verify your repository:**  Navigate to the repository’s **Code** tab to ensure all files are present.  Click on the notebook and presentation to confirm that GitHub can render them.  You can also copy the repository URL and share it with others.
-
 ## License
 
 Specify a license for your project if you intend others to reuse your work.  Common choices include MIT, Apache 2.0 and GPL.  You can add a `LICENSE` file in the repository or select a license when creating the repository.
